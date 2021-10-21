@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15726643385",
+    "project_id": "examenetps3",
+    "storage_bucket": "examenetps3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15726643385:android:c9bd54b6872fe39f997368",
+        "android_client_info": {
+          "package_name": "com.example.parcial32514342017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15726643385-5v5javmrt4gmfg44b9q6eskttonao16k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7h4dUEkBdCE_vUZ-5FqtlWUK87oqDJN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15726643385-5v5javmrt4gmfg44b9q6eskttonao16k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
